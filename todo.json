@@ -13,11 +13,25 @@
 		{
 			"projectTitle": "Do stuff",
 			"done": false,
-			"taskTitle": "Task 01"
-		},
-		{
-			"projectTitle": "Hello",
-			"done": false
+			"taskTitle": "Task 01",
+			"task": [
+				{
+					"done": false,
+					"taskTitle": "Task 01"
+				},
+				{
+					"done": false,
+					"taskTitle": "Task 02"
+				},
+				{
+					"done": false,
+					"taskTitle": "Task 03"
+				},
+				{
+					"done": false,
+					"taskTitle": "Task 04"
+				}
+			]
 		}
 	]
 }
