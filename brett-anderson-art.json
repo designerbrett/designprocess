@@ -2,7 +2,7 @@
 	"link01": "index.php#about",
 	"link02": "index.php#about",
 	"siteTitle": "Brett Anderson",
-	"description": "Design Manager at KWALL, Instructor at LCAD, Husband and Father of one crazy boy.",
+	"description": "Design Manager at <a data-mce-href=\"kwallcompany.com\" href=\"kwallcompany.com\" target=\"_blank\" rel=\"noopener noreferrer\">KWALL</a>, Instructor at <a data-mce-href=\"lcad.edu\" href=\"lcad.edu\" target=\"_blank\" rel=\"noopener noreferrer\" data-mce-selected=\"1\">LCAD</a>, <br>Husband and Father of one crazy boy.",
 	"createTitle": "I create",
 	"createTitles": [
 		"brands"
