@@ -8,5 +8,16 @@
 			"done": false,
 			"taskTitle": "New task"
 		}
+	],
+	"Project": [
+		{
+			"projectTitle": "Do stuff",
+			"done": false,
+			"taskTitle": "Task 01"
+		},
+		{
+			"projectTitle": "Hello",
+			"done": false
+		}
 	]
 }
