@@ -31,7 +31,66 @@
 					"done": false,
 					"taskTitle": "Task 04"
 				}
-			]
+			],
+			"task01": {
+				"done": false,
+				"taskTitle": "Creative Brief"
+			},
+			"task02": {
+				"done": false,
+				"taskTitle": "Design"
+			},
+			"task03": {
+				"done": false,
+				"taskTitle": "Wireframe"
+			},
+			"task04": {
+				"done": false,
+				"taskTitle": "Homepage Design"
+			},
+			"task05": {
+				"done": false,
+				"taskTitle": "Style Guide"
+			},
+			"task06": {
+				"done": false,
+				"taskTitle": "Responsive"
+			},
+			"task07": {
+				"done": false,
+				"taskTitle": "Task 03"
+			},
+			"task08": {
+				"done": false,
+				"taskTitle": "Task 04"
+			}
+		},
+		{
+			"projectTitle": "New Project",
+			"task01": {
+				"done": false
+			},
+			"task02": {
+				"done": false
+			},
+			"task03": {
+				"done": false
+			},
+			"task04": {
+				"done": false
+			},
+			"task05": {
+				"done": false
+			},
+			"task06": {
+				"done": false
+			},
+			"task07": {
+				"done": false
+			},
+			"task08": {
+				"done": false
+			}
 		}
 	]
 }
