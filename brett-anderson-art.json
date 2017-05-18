@@ -15,11 +15,6 @@
 		"logo design",
 		"print design"
 	],
-	"link": [
-		"index.php#about",
-		"index.php/#about"
-	],
 	"link01": "index.php#about",
 	"link02": "index.php#about",
-	"description": "Design Manager at <a href=\"http://kwallcompany.com\" target=\"_blank\" rel=\"noopener noreferrer\" data-mce-href=\"http://kwallcompany.com\">KWALL</a>, Instructor at <a href=\"http://lcad.edu\" target=\"_blank\" rel=\"noopener noreferrer\" data-mce-href=\"http://lcad.edu\">LCAD</a>, <br>Husband and Father of one crazy boy."
 }
