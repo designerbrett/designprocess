@@ -14,5 +14,9 @@
 		"web development",
 		"logo design",
 		"print design"
+	],
+	"link": [
+		"index.php#about",
+		"index.php/#about"
 	]
 }
