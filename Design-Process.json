@@ -269,7 +269,24 @@
 				}
 			],
 			"done": false,
-			"projectManager": "Project Manager"
+			"projectManager": "Project Manager",
+			"styleguidetask": [
+				{
+					"styleguidedone": false
+				},
+				{
+					"styleguidedone": false
+				},
+				{
+					"styleguidedone": false
+				},
+				{
+					"styleguidedone": false
+				},
+				{
+					"styleguidedone": false
+				}
+			]
 		}
 	],
 	"task": [
