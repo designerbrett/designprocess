@@ -299,42 +299,42 @@
 				"start-done": false
 			},
 			"start_task": {
-				"start_done": false
+				"start_done": true
 			},
 			"brief_task": [
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				}
 			],
 			"persona_task": [
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				}
 			],
 			"competitor_task": [
 				{
-					"competitor_done": false
+					"competitor_done": true
 				},
 				{
-					"competitor_done": false
+					"competitor_done": true
 				},
 				{
-					"competitor_done": false
+					"competitor_done": true
 				}
 			],
 			"survey_task": [
@@ -342,19 +342,19 @@
 					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				}
 			],
 			"focus_task": [
