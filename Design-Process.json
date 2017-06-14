@@ -897,7 +897,7 @@
 			"projectTitle": "Hungry Howies Main",
 			"projectManager": "Sheina",
 			"start_task": {
-				"start_done": false
+				"start_done": true
 			},
 			"brief_task": [
 				{
