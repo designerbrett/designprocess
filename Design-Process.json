@@ -289,7 +289,7 @@
 			],
 			"postdesigntask": [
 				{
-					"postdesigndone": true
+					"postdesigndone": false
 				},
 				{
 					"postdesigndone": false
