@@ -27,6 +27,12 @@
 				{
 					"done": false
 				}
+			],
+			"extraTask": [
+				{
+					"done": false,
+					"taskTitle": "Task 04"
+				}
 			]
 		},
 		{
@@ -36,7 +42,7 @@
 					"done": false
 				},
 				{
-					"done": false
+					"done": true
 				},
 				{
 					"done": false
@@ -53,6 +59,11 @@
 				{
 					"done": false
 				},
+				{
+					"done": false
+				}
+			],
+			"extraTask": [
 				{
 					"done": false
 				}
@@ -82,6 +93,11 @@
 				{
 					"done": false
 				},
+				{
+					"done": false
+				}
+			],
+			"extraTask": [
 				{
 					"done": false
 				}
