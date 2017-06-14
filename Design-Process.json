@@ -575,6 +575,23 @@
 				{
 					"postdesign_done": false
 				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				}
 			]
 		},
 		{
@@ -856,6 +873,23 @@
 				},
 				{
 					"postdesign_done": false
+				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
 				}
 			]
 		},
@@ -1139,6 +1173,23 @@
 				{
 					"postdesign_done": false
 				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				}
 			]
 		},
 		{
@@ -1420,6 +1471,23 @@
 				},
 				{
 					"postdesign_done": false
+				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
 				}
 			]
 		},
@@ -1703,6 +1771,23 @@
 				{
 					"postdesign_done": false
 				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				}
 			]
 		},
 		{
@@ -1985,6 +2070,23 @@
 				{
 					"postdesign_done": false
 				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				}
 			]
 		},
 		{
@@ -2266,6 +2368,23 @@
 				},
 				{
 					"postdesign_done": false
+				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
 				}
 			]
 		}
