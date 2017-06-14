@@ -286,6 +286,14 @@
 				{
 					"styleguidedone": false
 				}
+			],
+			"postdesigntask": [
+				{
+					"postdesigndone": true
+				},
+				{
+					"postdesigndone": false
+				}
 			]
 		}
 	],
