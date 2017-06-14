@@ -294,7 +294,10 @@
 				{
 					"postdesigndone": false
 				}
-			]
+			],
+			"start-task": {
+				"start-done": false
+			}
 		}
 	],
 	"task": [
