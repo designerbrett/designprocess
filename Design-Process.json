@@ -299,7 +299,7 @@
 				"start-done": false
 			},
 			"start_task": {
-				"start_done": true,
+				"start_done": false,
 				"date": "2016-08-16"
 			},
 			"brief_task": [
@@ -325,6 +325,45 @@
 				},
 				{
 					"persona_done": true
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -553,11 +592,26 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
 				{
 					"styleguide_done": true
+				},
+				{
+					"styleguide_done": false
 				},
 				{
 					"styleguide_done": false
@@ -596,7 +650,8 @@
 				{
 					"map_done": false
 				}
-			]
+			],
+			"project_done": true
 		},
 		{
 			"projectTitle": "Charles Drew University",
@@ -627,6 +682,45 @@
 				},
 				{
 					"persona_done": true
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -855,11 +949,26 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
 				{
 					"styleguide_done": true
+				},
+				{
+					"styleguide_done": false
 				},
 				{
 					"styleguide_done": false
@@ -898,7 +1007,8 @@
 				{
 					"map_done": false
 				}
-			]
+			],
+			"project_done": true
 		},
 		{
 			"projectTitle": "Hungry Howies Main",
@@ -929,6 +1039,45 @@
 				},
 				{
 					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -1157,9 +1306,24 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
+				{
+					"styleguide_done": false
+				},
 				{
 					"styleguide_done": false
 				},
@@ -1200,7 +1364,8 @@
 				{
 					"map_done": false
 				}
-			]
+			],
+			"project_done": true
 		},
 		{
 			"projectTitle": "The Foundation",
@@ -1231,6 +1396,45 @@
 				},
 				{
 					"persona_done": true
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -1459,9 +1663,24 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
+				{
+					"styleguide_done": false
+				},
 				{
 					"styleguide_done": false
 				},
@@ -1502,7 +1721,8 @@
 				{
 					"map_done": false
 				}
-			]
+			],
+			"project_done": true
 		},
 		{
 			"projectTitle": "AJU",
@@ -1533,6 +1753,45 @@
 				},
 				{
 					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -1761,9 +2020,24 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
+				{
+					"styleguide_done": false
+				},
 				{
 					"styleguide_done": false
 				},
@@ -1804,7 +2078,8 @@
 				{
 					"map_done": false
 				}
-			]
+			],
+			"project_done": true
 		},
 		{
 			"projectTitle": "NVU Phase 1",
@@ -1835,6 +2110,45 @@
 				},
 				{
 					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -2063,9 +2377,24 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
+				{
+					"styleguide_done": false
+				},
 				{
 					"styleguide_done": false
 				},
@@ -2106,7 +2435,8 @@
 				{
 					"map_done": false
 				}
-			]
+			],
+			"project_done": true
 		},
 		{
 			"projectTitle": "Ohlone College Phase 2",
@@ -2137,6 +2467,45 @@
 				},
 				{
 					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -2365,9 +2734,24 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
+				{
+					"styleguide_done": false
+				},
 				{
 					"styleguide_done": false
 				},
@@ -2408,7 +2792,8 @@
 				{
 					"map_done": false
 				}
-			]
+			],
+			"project_done": true
 		}
 	],
 	"task": [
