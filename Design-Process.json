@@ -299,7 +299,7 @@
 				"start-done": false
 			},
 			"start_task": {
-				"start_done": false,
+				"start_done": true,
 				"date": "2016-08-16"
 			},
 			"brief_task": [
