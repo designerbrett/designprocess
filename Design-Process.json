@@ -1008,7 +1008,7 @@
 					"map_done": false
 				}
 			],
-			"project_done": true
+			"project_done": false
 		},
 		{
 			"projectTitle": "Hungry Howies Main",
@@ -1365,7 +1365,7 @@
 					"map_done": false
 				}
 			],
-			"project_done": true
+			"project_done": false
 		},
 		{
 			"projectTitle": "The Foundation",
