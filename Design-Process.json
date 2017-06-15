@@ -663,7 +663,8 @@
 					"map_done": false
 				}
 			],
-			"project_done": false
+			"project_done": false,
+			"archive": false
 		},
 		{
 			"projectTitle": "AJU",
@@ -1032,7 +1033,8 @@
 					"map_done": true
 				}
 			],
-			"project_done": true
+			"project_done": true,
+			"archive": false
 		},
 		{
 			"projectTitle": "Charles Drew University",
@@ -1401,7 +1403,8 @@
 					"map_done": false
 				}
 			],
-			"project_done": false
+			"project_done": false,
+			"archive": false
 		},
 		{
 			"projectTitle": "Hungry Howies Main",
@@ -1770,7 +1773,8 @@
 					"map_done": true
 				}
 			],
-			"project_done": false
+			"project_done": false,
+			"archive": false
 		},
 		{
 			"projectTitle": "The Foundation",
@@ -2139,7 +2143,8 @@
 					"map_done": true
 				}
 			],
-			"project_done": true
+			"project_done": true,
+			"archive": false
 		},
 		{
 			"projectTitle": "NVU Phase 1",
@@ -2508,7 +2513,8 @@
 					"map_done": true
 				}
 			],
-			"project_done": true
+			"project_done": true,
+			"archive": false
 		},
 		{
 			"projectTitle": "Ohlone College Phase 2",
@@ -2877,7 +2883,8 @@
 					"map_done": false
 				}
 			],
-			"project_done": true
+			"project_done": true,
+			"archive": false
 		},
 		{
 			"projectTitle": "CSULA Alumni",
@@ -3246,7 +3253,8 @@
 				{
 					"postdesign_done": false
 				}
-			]
+			],
+			"archive": false
 		},
 		{
 			"projectTitle": "NVU Phase 2",
@@ -3614,7 +3622,8 @@
 				{
 					"postdesign_done": false
 				}
-			]
+			],
+			"archive": false
 		}
 	],
 	"task": [
