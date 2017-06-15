@@ -308,6 +308,12 @@
 				},
 				{
 					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": false
 				}
 			],
 			"persona_task": [
@@ -604,6 +610,12 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
@@ -660,6 +672,12 @@
 				"start_done": false
 			},
 			"brief_task": [
+				{
+					"brief_done": false
+				},
+				{
+					"brief_done": false
+				},
 				{
 					"brief_done": false
 				},
@@ -866,6 +884,12 @@
 				}
 			],
 			"design_task": [
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
 				{
 					"design_done": false
 				},
@@ -1022,6 +1046,12 @@
 				},
 				{
 					"brief_done": true
+				},
+				{
+					"brief_done": false
+				},
+				{
+					"brief_done": false
 				}
 			],
 			"persona_task": [
@@ -1318,6 +1348,12 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				}
 			],
 			"styleguide_task": [
@@ -1374,6 +1410,12 @@
 				"start_done": true
 			},
 			"brief_task": [
+				{
+					"brief_done": false
+				},
+				{
+					"brief_done": false
+				},
 				{
 					"brief_done": false
 				},
@@ -1580,6 +1622,12 @@
 				}
 			],
 			"design_task": [
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
 				{
 					"design_done": false
 				},
@@ -1736,6 +1784,12 @@
 				},
 				{
 					"brief_done": true
+				},
+				{
+					"brief_done": false
+				},
+				{
+					"brief_done": false
 				}
 			],
 			"persona_task": [
@@ -1937,6 +1991,12 @@
 				}
 			],
 			"design_task": [
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
 				{
 					"design_done": false
 				},
@@ -2093,6 +2153,12 @@
 				},
 				{
 					"brief_done": false
+				},
+				{
+					"brief_done": false
+				},
+				{
+					"brief_done": false
 				}
 			],
 			"persona_task": [
@@ -2294,6 +2360,12 @@
 				}
 			],
 			"design_task": [
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
 				{
 					"design_done": false
 				},
@@ -2450,6 +2522,12 @@
 				},
 				{
 					"brief_done": false
+				},
+				{
+					"brief_done": false
+				},
+				{
+					"brief_done": false
 				}
 			],
 			"persona_task": [
@@ -2651,6 +2729,12 @@
 				}
 			],
 			"design_task": [
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
 				{
 					"design_done": false
 				},
