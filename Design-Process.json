@@ -313,7 +313,7 @@
 					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				}
 			],
 			"persona_task": [
@@ -333,7 +333,28 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -348,28 +369,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
-				},
-				{
 					"persona_done": true
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -564,6 +564,27 @@
 					"design_done": false
 				},
 				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": true
+				},
+				{
 					"design_done": false
 				},
 				{
@@ -576,31 +597,10 @@
 					"design_done": true
 				},
 				{
-					"design_done": true
-				},
-				{
 					"design_done": false
 				},
 				{
 					"design_done": true
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
 				},
 				{
 					"design_done": false
