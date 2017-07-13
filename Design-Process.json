@@ -660,7 +660,7 @@
 			],
 			"map_task": [
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
 					"map_done": false
@@ -1793,7 +1793,7 @@
 					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				}
 			],
 			"postdesign_task": [
