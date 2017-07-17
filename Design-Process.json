@@ -1443,388 +1443,6 @@
 			"archive": false
 		},
 		{
-			"projectTitle": "The Foundation",
-			"projectManager": "Alexa / Sheina",
-			"start_task": {
-				"start_done": true
-			},
-			"brief_task": [
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				}
-			],
-			"persona_task": [
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				}
-			],
-			"competitor_task": [
-				{
-					"competitor_done": true
-				},
-				{
-					"competitor_done": true
-				},
-				{
-					"competitor_done": true
-				}
-			],
-			"survey_task": [
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				}
-			],
-			"focus_task": [
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				}
-			],
-			"focus_task ": {
-				"focus_done": true
-			},
-			"sitemap_task": [
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				}
-			],
-			"wireframes_task": [
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				}
-			],
-			"design_task": [
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				}
-			],
-			"styleguide_task": [
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				}
-			],
-			"postdesign_task": [
-				{
-					"postdesign_done": false
-				},
-				{
-					"postdesign_done": false
-				}
-			],
-			"map_task": [
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				}
-			],
-			"project_done": true,
-			"archive": false
-		},
-		{
 			"projectTitle": "NVU Phase 1",
 			"projectManager": "Alexa / Brit",
 			"start_task": {
@@ -2528,7 +2146,7 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2967,6 +2585,388 @@
 					"postdesign_done": false
 				}
 			],
+			"archive": false
+		},
+		{
+			"projectTitle": "The Foundation",
+			"projectManager": "Alexa / Sheina",
+			"start_task": {
+				"start_done": true
+			},
+			"brief_task": [
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				}
+			],
+			"persona_task": [
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				}
+			],
+			"competitor_task": [
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				}
+			],
+			"survey_task": [
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				}
+			],
+			"focus_task": [
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				}
+			],
+			"focus_task ": {
+				"focus_done": true
+			},
+			"sitemap_task": [
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				}
+			],
+			"wireframes_task": [
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				}
+			],
+			"design_task": [
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				}
+			],
+			"styleguide_task": [
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				}
+			],
+			"postdesign_task": [
+				{
+					"postdesign_done": false
+				},
+				{
+					"postdesign_done": false
+				}
+			],
+			"map_task": [
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				}
+			],
+			"project_done": true,
 			"archive": false
 		},
 		{
