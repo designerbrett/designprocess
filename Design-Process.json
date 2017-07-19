@@ -3,20 +3,20 @@
 		{
 			"projectTitle": "Example Project",
 			"start_task": {
-				"start_done": true
+				"start_done": false
 			},
 			"brief_task": [
 				{
 					"brief_done": false
 				},
 				{
-					"brief_done": true
+					"brief_done": false
 				},
 				{
 					"brief_done": false
 				},
 				{
-					"brief_done": true
+					"brief_done": false
 				}
 			],
 			"persona_task": [
@@ -24,25 +24,25 @@
 					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
 					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
 					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
 					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
 					"persona_done": false
@@ -80,10 +80,10 @@
 					"competitor_done": false
 				},
 				{
-					"competitor_done": true
+					"competitor_done": false
 				},
 				{
-					"competitor_done": true
+					"competitor_done": false
 				}
 			],
 			"survey_task": [
