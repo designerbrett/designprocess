@@ -2578,383 +2578,6 @@
 			]
 		},
 		{
-			"projectTitle": "Oxy Obama Microsite",
-			"projectManager": "Alexa",
-			"start_task": {
-				"start_done": true
-			},
-			"brief_task": [
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				}
-			],
-			"persona_task": [
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				}
-			],
-			"competitor_task": [
-				{
-					"competitor_done": true
-				},
-				{
-					"competitor_done": true
-				},
-				{
-					"competitor_done": true
-				}
-			],
-			"survey_task": [
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				}
-			],
-			"focus_task": [
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				}
-			],
-			"focus_task ": {
-				"focus_done": true
-			},
-			"sitemap_task": [
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				}
-			],
-			"wireframes_task": [
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				}
-			],
-			"design_task": [
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				}
-			],
-			"map_task": [
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				}
-			],
-			"styleguide_task": [
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				}
-			],
-			"postdesign_task": [
-				{
-					"postdesign_done": true
-				},
-				{
-					"postdesign_done": true
-				}
-			]
-		},
-		{
 			"projectTitle": "City College San Francisco",
 			"projectManager": "Alexa / Allison",
 			"start_task": {
@@ -3711,6 +3334,383 @@
 				}
 			],
 			"archive": false
+		},
+		{
+			"projectTitle": "Oxy Obama Microsite",
+			"projectManager": "Alexa",
+			"start_task": {
+				"start_done": true
+			},
+			"brief_task": [
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				}
+			],
+			"persona_task": [
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				}
+			],
+			"competitor_task": [
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				}
+			],
+			"survey_task": [
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				}
+			],
+			"focus_task": [
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				}
+			],
+			"focus_task ": {
+				"focus_done": true
+			},
+			"sitemap_task": [
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				}
+			],
+			"wireframes_task": [
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				}
+			],
+			"design_task": [
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				}
+			],
+			"map_task": [
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				}
+			],
+			"styleguide_task": [
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				}
+			],
+			"postdesign_task": [
+				{
+					"postdesign_done": true
+				},
+				{
+					"postdesign_done": true
+				}
+			]
 		},
 		{
 			"projectTitle": "NVU Phase 1",
