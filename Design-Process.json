@@ -1518,6 +1518,387 @@
 			]
 		},
 		{
+			"projectTitle": "NVU Phase 2",
+			"projectManager": "Alexa / Brit",
+			"start_task": {
+				"start_done": true
+			},
+			"brief_task": [
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				}
+			],
+			"persona_task": [
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				}
+			],
+			"competitor_task": [
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				}
+			],
+			"survey_task": [
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				}
+			],
+			"focus_task": [
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				}
+			],
+			"focus_task ": {
+				"focus_done": true
+			},
+			"sitemap_task": [
+				{
+					"sitemap_done": false
+				},
+				{
+					"sitemap_done": false
+				},
+				{
+					"sitemap_done": false
+				},
+				{
+					"sitemap_done": false
+				},
+				{
+					"sitemap_done": false
+				}
+			],
+			"wireframes_task": [
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				}
+			],
+			"design_task": [
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": false
+				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				}
+			],
+			"styleguide_task": [
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				}
+			],
+			"postdesign_task": [
+				{
+					"postdesign_done": true
+				},
+				{
+					"postdesign_done": true
+				}
+			],
+			"archive": false
+		},
+		{
 			"projectTitle": "City College San Francisco",
 			"projectManager": "Alexa / Allison",
 			"start_task": {
@@ -2952,387 +3333,6 @@
 				}
 			],
 			"project_done": false,
-			"archive": false
-		},
-		{
-			"projectTitle": "NVU Phase 2",
-			"projectManager": "Alexa / Brit",
-			"start_task": {
-				"start_done": true
-			},
-			"brief_task": [
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				}
-			],
-			"persona_task": [
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				}
-			],
-			"competitor_task": [
-				{
-					"competitor_done": true
-				},
-				{
-					"competitor_done": true
-				},
-				{
-					"competitor_done": true
-				}
-			],
-			"survey_task": [
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				}
-			],
-			"focus_task": [
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				}
-			],
-			"focus_task ": {
-				"focus_done": true
-			},
-			"sitemap_task": [
-				{
-					"sitemap_done": false
-				},
-				{
-					"sitemap_done": false
-				},
-				{
-					"sitemap_done": false
-				},
-				{
-					"sitemap_done": false
-				},
-				{
-					"sitemap_done": false
-				}
-			],
-			"wireframes_task": [
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				}
-			],
-			"design_task": [
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": false
-				}
-			],
-			"map_task": [
-				{
-					"map_done": false
-				},
-				{
-					"map_done": false
-				},
-				{
-					"map_done": false
-				},
-				{
-					"map_done": false
-				},
-				{
-					"map_done": false
-				}
-			],
-			"styleguide_task": [
-				{
-					"styleguide_done": false
-				},
-				{
-					"styleguide_done": false
-				},
-				{
-					"styleguide_done": false
-				},
-				{
-					"styleguide_done": false
-				},
-				{
-					"styleguide_done": false
-				},
-				{
-					"styleguide_done": false
-				}
-			],
-			"postdesign_task": [
-				{
-					"postdesign_done": true
-				},
-				{
-					"postdesign_done": true
-				}
-			],
 			"archive": false
 		},
 		{
