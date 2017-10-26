@@ -374,7 +374,8 @@
 				{
 					"postdesign_done": false
 				}
-			]
+			],
+			"archive": false
 		},
 		{
 			"projectTitle": "Hungry Howies Main",
@@ -756,7 +757,7 @@
 				}
 			],
 			"project_done": false,
-			"archive": false
+			"archive": true
 		},
 		{
 			"projectTitle": "Ohlone College Phase 2",
@@ -1515,7 +1516,8 @@
 				{
 					"postdesign_done": false
 				}
-			]
+			],
+			"archive": false
 		},
 		{
 			"projectTitle": "NVU Phase 2",
@@ -2273,7 +2275,8 @@
 				{
 					"postdesign_done": false
 				}
-			]
+			],
+			"archive": false
 		},
 		{
 			"projectTitle": "University at Albany",
@@ -3710,7 +3713,8 @@
 				{
 					"postdesign_done": true
 				}
-			]
+			],
+			"archive": false
 		},
 		{
 			"projectTitle": "NVU Phase 1",
