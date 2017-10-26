@@ -1139,7 +1139,7 @@
 				}
 			],
 			"project_done": true,
-			"archive": false
+			"archive": true
 		},
 		{
 			"projectTitle": "Somona SEIE",
