@@ -418,13 +418,13 @@
 					"persona_done": false
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -456,13 +456,13 @@
 			],
 			"competitor_task": [
 				{
-					"competitor_done": false
+					"competitor_done": true
 				},
 				{
-					"competitor_done": false
+					"competitor_done": true
 				},
 				{
-					"competitor_done": false
+					"competitor_done": true
 				}
 			],
 			"survey_task": [
@@ -487,20 +487,20 @@
 			],
 			"focus_task": [
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				}
 			],
 			"focus_task ": {
-				"focus_done": false
+				"focus_done": true
 			},
 			"sitemap_task": [
 				{
