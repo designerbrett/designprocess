@@ -761,7 +761,7 @@
 		},
 		{
 			"projectTitle": "NVU Phase 2",
-			"projectManager": "Alexa / Brit",
+			"projectManager": "Alexa",
 			"start_task": {
 				"start_done": true
 			},
@@ -1515,11 +1515,12 @@
 				{
 					"postdesign_done": false
 				}
-			]
+			],
+			"projectManager": "Alexa"
 		},
 		{
 			"projectTitle": "Hungry Howies Main",
-			"projectManager": "Sheina",
+			"projectManager": "Kevin",
 			"start_task": {
 				"start_done": true
 			},
@@ -4551,7 +4552,7 @@
 		},
 		{
 			"projectTitle": "Somona SEIE",
-			"projectManager": "Renee / Sheina",
+			"projectManager": "Renee",
 			"start_task": {
 				"start_done": true
 			},
