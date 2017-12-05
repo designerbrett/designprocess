@@ -5303,7 +5303,7 @@
 					"postdesign_done": false
 				}
 			],
-			"archive": false
+			"archive": true
 		},
 		{
 			"projectTitle": "University at Albany",
@@ -5981,7 +5981,7 @@
 				}
 			],
 			"project_done": false,
-			"archive": false
+			"archive": true
 		},
 		{
 			"projectTitle": "Oxy Obama Microsite",
@@ -6359,7 +6359,7 @@
 					"postdesign_done": true
 				}
 			],
-			"archive": false
+			"archive": true
 		},
 		{
 			"projectTitle": "NVU Phase 1",
@@ -6741,7 +6741,7 @@
 				}
 			],
 			"project_done": true,
-			"archive": false
+			"archive": true
 		},
 		{
 			"projectTitle": "The Foundation",
@@ -7123,7 +7123,7 @@
 				}
 			],
 			"project_done": true,
-			"archive": false
+			"archive": true
 		},
 		{
 			"projectTitle": "AJU",
@@ -7505,7 +7505,7 @@
 				}
 			],
 			"project_done": true,
-			"archive": false
+			"archive": true
 		}
 	],
 	"task": [
