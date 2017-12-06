@@ -2661,7 +2661,7 @@
 			"projectTitle": "San Jacinto",
 			"projectManager": "Alexa",
 			"start_task": {
-				"start_done": false
+				"start_done": true
 			},
 			"brief_task": [
 				{
@@ -3795,11 +3795,11 @@
 			"projectTitle": "OXY Main",
 			"projectManager": "Alexa",
 			"start_task": {
-				"start_done": false
+				"start_done": true
 			},
 			"brief_task": [
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
 					"brief_done": false
