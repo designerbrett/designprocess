@@ -823,13 +823,13 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -888,10 +888,10 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
@@ -953,13 +953,13 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": true
@@ -978,6 +978,18 @@
 				}
 			],
 			"design_task": [
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
 				{
 					"design_done": true
 				},
@@ -1027,25 +1039,13 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -3039,20 +3039,20 @@
 			"projectTitle": "SCSU",
 			"projectManager": "Alexa",
 			"start_task": {
-				"start_done": false
+				"start_done": true
 			},
 			"brief_task": [
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				}
 			],
 			"persona_task": [
