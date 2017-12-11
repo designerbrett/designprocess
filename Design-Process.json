@@ -2665,7 +2665,7 @@
 			},
 			"brief_task": [
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
 					"brief_done": false
