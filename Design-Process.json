@@ -624,22 +624,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
 					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": false
 				},
 				{
 					"design_done": true
@@ -678,7 +663,16 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": true
@@ -693,7 +687,13 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": true
@@ -1144,11 +1144,11 @@
 			"archive": false,
 			"projectTitle": "Ketchum University",
 			"start_task": {
-				"start_done": false
+				"start_done": true
 			},
 			"brief_task": [
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
 					"brief_done": false
@@ -2283,7 +2283,7 @@
 			"projectTitle": "ASU Alumni",
 			"projectManager": "Alexa",
 			"start_task": {
-				"start_done": false
+				"start_done": true
 			},
 			"brief_task": [
 				{
@@ -3057,22 +3057,22 @@
 			],
 			"persona_task": [
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -3462,7 +3462,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -3595,7 +3595,7 @@
 					"wireframes_done": false
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
