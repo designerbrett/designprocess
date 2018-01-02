@@ -378,388 +378,6 @@
 			"archive": false
 		},
 		{
-			"projectTitle": "Charles Drew University",
-			"projectManager": "Allison",
-			"start_task": {
-				"start_done": true
-			},
-			"brief_task": [
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				},
-				{
-					"brief_done": true
-				}
-			],
-			"persona_task": [
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				},
-				{
-					"persona_done": true
-				}
-			],
-			"competitor_task": [
-				{
-					"competitor_done": true
-				},
-				{
-					"competitor_done": true
-				},
-				{
-					"competitor_done": true
-				}
-			],
-			"survey_task": [
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				},
-				{
-					"survey_done": true
-				}
-			],
-			"focus_task": [
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				},
-				{
-					"focus_done": true
-				}
-			],
-			"focus_task ": {
-				"focus_done": true
-			},
-			"sitemap_task": [
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				},
-				{
-					"sitemap_done": true
-				}
-			],
-			"wireframes_task": [
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				}
-			],
-			"design_task": [
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": false
-				}
-			],
-			"styleguide_task": [
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				},
-				{
-					"styleguide_done": true
-				}
-			],
-			"postdesign_task": [
-				{
-					"postdesign_done": false
-				},
-				{
-					"postdesign_done": false
-				}
-			],
-			"map_task": [
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				},
-				{
-					"map_done": true
-				}
-			],
-			"project_done": false,
-			"archive": false
-		},
-		{
 			"projectTitle": "NVU Phase 2",
 			"projectManager": "Alexa",
 			"start_task": {
@@ -1923,22 +1541,22 @@
 			],
 			"persona_task": [
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -3542,10 +3160,10 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
@@ -3568,7 +3186,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -3598,7 +3216,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -3831,7 +3449,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
 					"persona_done": true
@@ -3869,13 +3487,13 @@
 			],
 			"competitor_task": [
 				{
-					"competitor_done": true
+					"competitor_done": false
 				},
 				{
-					"competitor_done": true
+					"competitor_done": false
 				},
 				{
-					"competitor_done": true
+					"competitor_done": false
 				}
 			],
 			"survey_task": [
@@ -4167,6 +3785,388 @@
 					"postdesign_done": false
 				}
 			]
+		},
+		{
+			"projectTitle": "Charles Drew University",
+			"projectManager": "Allison",
+			"start_task": {
+				"start_done": true
+			},
+			"brief_task": [
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				}
+			],
+			"persona_task": [
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				}
+			],
+			"competitor_task": [
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				}
+			],
+			"survey_task": [
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				}
+			],
+			"focus_task": [
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				}
+			],
+			"focus_task ": {
+				"focus_done": true
+			},
+			"sitemap_task": [
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				}
+			],
+			"wireframes_task": [
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				}
+			],
+			"design_task": [
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": false
+				}
+			],
+			"styleguide_task": [
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				},
+				{
+					"styleguide_done": true
+				}
+			],
+			"postdesign_task": [
+				{
+					"postdesign_done": false
+				},
+				{
+					"postdesign_done": false
+				}
+			],
+			"map_task": [
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				},
+				{
+					"map_done": true
+				}
+			],
+			"project_done": false,
+			"archive": false
 		},
 		{
 			"projectTitle": "City College San Francisco",
