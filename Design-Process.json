@@ -775,7 +775,7 @@
 					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				}
 			],
 			"persona_task": [
@@ -1674,7 +1674,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -2094,10 +2094,10 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": true
@@ -2384,7 +2384,7 @@
 			],
 			"focus_task": [
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
 					"focus_done": false
@@ -2711,10 +2711,10 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -2838,10 +2838,10 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -3228,7 +3228,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -3461,10 +3461,10 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -3561,7 +3561,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
