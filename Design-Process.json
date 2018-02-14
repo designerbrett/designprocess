@@ -621,10 +621,10 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -651,34 +651,34 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
 					"design_done": true
 				},
 				{
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1745,7 +1745,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2141,10 +2141,10 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2189,7 +2189,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2292,7 +2292,7 @@
 					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				}
 			],
 			"persona_task": [
@@ -2717,10 +2717,10 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -2844,7 +2844,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -2882,13 +2882,13 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -3269,7 +3269,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -3591,7 +3591,7 @@
 					"wireframes_done": false
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -3790,14 +3790,14 @@
 			"projectTitle": "City College San Francisco",
 			"projectManager": "Alexa / Allison",
 			"start_task": {
-				"start_done": true
+				"start_done": false
 			},
 			"brief_task": [
 				{
-					"brief_done": true
+					"brief_done": false
 				},
 				{
-					"brief_done": true
+					"brief_done": false
 				},
 				{
 					"brief_done": false
@@ -3808,28 +3808,28 @@
 			],
 			"persona_task": [
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
 					"persona_done": false
@@ -3864,27 +3864,27 @@
 			],
 			"competitor_task": [
 				{
-					"competitor_done": true
+					"competitor_done": false
 				},
 				{
-					"competitor_done": true
+					"competitor_done": false
 				},
 				{
-					"competitor_done": true
+					"competitor_done": false
 				}
 			],
 			"survey_task": [
 				{
-					"survey_done": true
+					"survey_done": false
 				},
 				{
-					"survey_done": true
+					"survey_done": false
 				},
 				{
-					"survey_done": true
+					"survey_done": false
 				},
 				{
-					"survey_done": true
+					"survey_done": false
 				},
 				{
 					"survey_done": false
@@ -3912,7 +3912,7 @@
 			},
 			"sitemap_task": [
 				{
-					"sitemap_done": true
+					"sitemap_done": false
 				},
 				{
 					"sitemap_done": false
