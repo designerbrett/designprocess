@@ -4934,6 +4934,499 @@
 			]
 		},
 		{
+			"archive": false,
+			"projectTitle": "Barstow Community College",
+			"projectManager": "Alexa / Mishka",
+			"start_task": {
+				"start_done": false
+			},
+			"brief_task": [
+				{
+					"brief_done": false,
+					"date": null
+				},
+				{
+					"brief_done": false,
+					"date": null
+				},
+				{
+					"brief_done": false,
+					"date": null
+				},
+				{
+					"brief_done": false,
+					"date": null
+				}
+			],
+			"persona_task": [
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				},
+				{
+					"persona_done": false,
+					"date": null
+				}
+			],
+			"competitor_task": [
+				{
+					"competitor_done": false,
+					"date": null
+				},
+				{
+					"competitor_done": false,
+					"date": null
+				},
+				{
+					"competitor_done": false,
+					"date": null
+				}
+			],
+			"survey_task": [
+				{
+					"survey_done": false,
+					"date": null
+				},
+				{
+					"survey_done": false,
+					"date": null
+				},
+				{
+					"survey_done": false,
+					"date": null
+				},
+				{
+					"survey_done": false,
+					"date": null
+				},
+				{
+					"survey_done": false,
+					"date": null
+				},
+				{
+					"survey_done": false,
+					"date": null
+				}
+			],
+			"focus_task": [
+				{
+					"focus_done": false,
+					"date": null
+				},
+				{
+					"focus_done": false,
+					"date": null
+				},
+				{
+					"focus_done": false,
+					"date": null
+				},
+				{
+					"focus_done": false,
+					"date": null
+				}
+			],
+			"focus_task ": {
+				"focus_done": false
+			},
+			"sitemap_task": [
+				{
+					"sitemap_done": false,
+					"date": null
+				},
+				{
+					"sitemap_done": false,
+					"date": null
+				},
+				{
+					"sitemap_done": false,
+					"date": null
+				},
+				{
+					"sitemap_done": false,
+					"date": null
+				},
+				{
+					"sitemap_done": false,
+					"date": null
+				}
+			],
+			"wireframes_task": [
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				},
+				{
+					"wireframes_done": false,
+					"date": null
+				}
+			],
+			"design_task": [
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				},
+				{
+					"design_done": false,
+					"date": null
+				}
+			],
+			"map_task": [
+				{
+					"map_done": false,
+					"date": null
+				},
+				{
+					"map_done": false,
+					"date": null
+				},
+				{
+					"map_done": false,
+					"date": null
+				},
+				{
+					"map_done": false,
+					"date": null
+				},
+				{
+					"map_done": false,
+					"date": null
+				}
+			],
+			"styleguide_task": [
+				{
+					"styleguide_done": false,
+					"date": null
+				},
+				{
+					"styleguide_done": false,
+					"date": null
+				},
+				{
+					"styleguide_done": false,
+					"date": null
+				},
+				{
+					"styleguide_done": false,
+					"date": null
+				},
+				{
+					"styleguide_done": false,
+					"date": null
+				},
+				{
+					"styleguide_done": false,
+					"date": null
+				}
+			],
+			"postdesign_task": [
+				{
+					"postdesign_done": false,
+					"date": null
+				},
+				{
+					"postdesign_done": false,
+					"date": null
+				}
+			]
+		},
+		{
 			"projectTitle": "City College San Francisco",
 			"projectManager": "Alexa / Allison",
 			"start_task": {
