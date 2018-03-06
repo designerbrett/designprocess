@@ -2445,15 +2445,15 @@
 					"date": null
 				},
 				{
-					"styleguide_done": false,
+					"styleguide_done": true,
 					"date": null
 				},
 				{
-					"styleguide_done": false,
+					"styleguide_done": true,
 					"date": null
 				},
 				{
-					"styleguide_done": false,
+					"styleguide_done": true,
 					"date": null
 				}
 			],
@@ -4151,11 +4151,11 @@
 					"date": null
 				},
 				{
-					"wireframes_done": false,
+					"wireframes_done": true,
 					"date": null
 				},
 				{
-					"wireframes_done": false,
+					"wireframes_done": true,
 					"date": null
 				},
 				{
@@ -4453,7 +4453,7 @@
 					"date": null
 				},
 				{
-					"brief_done": false,
+					"brief_done": true,
 					"date": null
 				},
 				{
@@ -4602,7 +4602,7 @@
 			},
 			"sitemap_task": [
 				{
-					"sitemap_done": false,
+					"sitemap_done": true,
 					"date": null
 				},
 				{
