@@ -1374,7 +1374,7 @@
 					"date": null
 				},
 				{
-					"design_done": false,
+					"design_done": true,
 					"date": null
 				},
 				{
@@ -2006,11 +2006,11 @@
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
@@ -2106,7 +2106,7 @@
 					"date": null
 				},
 				{
-					"survey_done": false,
+					"survey_done": true,
 					"date": null
 				},
 				{
@@ -2128,7 +2128,7 @@
 					"date": null
 				},
 				{
-					"focus_done": false,
+					"focus_done": true,
 					"date": null
 				}
 			],
@@ -2159,7 +2159,7 @@
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": false,
+					"wireframes_done": true,
 					"date": null
 				},
 				{
@@ -2167,7 +2167,7 @@
 					"date": null
 				},
 				{
-					"wireframes_done": false,
+					"wireframes_done": true,
 					"date": null
 				},
 				{
@@ -3628,11 +3628,11 @@
 					"date": null
 				},
 				{
-					"sitemap_done": false,
+					"sitemap_done": true,
 					"date": null
 				},
 				{
-					"sitemap_done": false,
+					"sitemap_done": true,
 					"date": null
 				}
 			],
@@ -3702,7 +3702,7 @@
 					"date": null
 				},
 				{
-					"wireframes_done": false,
+					"wireframes_done": true,
 					"date": null
 				},
 				{
@@ -4121,11 +4121,11 @@
 					"date": null
 				},
 				{
-					"sitemap_done": false,
+					"sitemap_done": true,
 					"date": null
 				},
 				{
-					"sitemap_done": false,
+					"sitemap_done": true,
 					"date": null
 				}
 			],
