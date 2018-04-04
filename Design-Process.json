@@ -801,7 +801,7 @@
 					"date": null
 				},
 				{
-					"design_done": false,
+					"design_done": true,
 					"date": null
 				},
 				{
@@ -1569,7 +1569,7 @@
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
@@ -1577,7 +1577,7 @@
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				}
 			],
@@ -2042,7 +2042,7 @@
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
@@ -2110,7 +2110,7 @@
 					"date": null
 				},
 				{
-					"survey_done": false,
+					"survey_done": true,
 					"date": null
 				}
 			],
@@ -2133,7 +2133,7 @@
 				}
 			],
 			"focus_task ": {
-				"focus_done": false
+				"focus_done": true
 			},
 			"sitemap_task": [
 				{
@@ -4022,11 +4022,11 @@
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
@@ -4187,7 +4187,7 @@
 					"date": null
 				},
 				{
-					"wireframes_done": false,
+					"wireframes_done": true,
 					"date": null
 				},
 				{
@@ -4449,11 +4449,11 @@
 			},
 			"brief_task": [
 				{
-					"brief_done": false,
+					"brief_done": true,
 					"date": null
 				},
 				{
-					"brief_done": false,
+					"brief_done": true,
 					"date": null
 				},
 				{
@@ -4491,15 +4491,15 @@
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
-					"persona_done": false,
+					"persona_done": true,
 					"date": null
 				},
 				{
@@ -4541,64 +4541,64 @@
 			],
 			"competitor_task": [
 				{
-					"competitor_done": false,
+					"competitor_done": true,
 					"date": null
 				},
 				{
-					"competitor_done": false,
+					"competitor_done": true,
 					"date": null
 				},
 				{
-					"competitor_done": false,
+					"competitor_done": true,
 					"date": null
 				}
 			],
 			"survey_task": [
 				{
-					"survey_done": false,
+					"survey_done": true,
 					"date": null
 				},
 				{
-					"survey_done": false,
+					"survey_done": true,
 					"date": null
 				},
 				{
-					"survey_done": false,
+					"survey_done": true,
 					"date": null
 				},
 				{
-					"survey_done": false,
+					"survey_done": true,
 					"date": null
 				},
 				{
-					"survey_done": false,
+					"survey_done": true,
 					"date": null
 				},
 				{
-					"survey_done": false,
+					"survey_done": true,
 					"date": null
 				}
 			],
 			"focus_task": [
 				{
-					"focus_done": false,
+					"focus_done": true,
 					"date": null
 				},
 				{
-					"focus_done": false,
+					"focus_done": true,
 					"date": null
 				},
 				{
-					"focus_done": false,
+					"focus_done": true,
 					"date": null
 				},
 				{
-					"focus_done": false,
+					"focus_done": true,
 					"date": null
 				}
 			],
 			"focus_task ": {
-				"focus_done": false
+				"focus_done": true
 			},
 			"sitemap_task": [
 				{
