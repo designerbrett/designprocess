@@ -378,7 +378,7 @@
 			"archive": false
 		},
 		{
-			"archive": false,
+			"archive": true,
 			"projectTitle": "Caltech",
 			"projectManager": "Alexa",
 			"start_task": {
