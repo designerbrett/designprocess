@@ -727,7 +727,7 @@
 			],
 			"styleguide_task": [
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
 					"styleguide_done": false
@@ -1289,7 +1289,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -2677,10 +2677,10 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -2698,10 +2698,10 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -2798,7 +2798,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
