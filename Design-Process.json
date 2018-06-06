@@ -378,7 +378,7 @@
 			"archive": false
 		},
 		{
-			"archive": false,
+			"archive": true,
 			"projectTitle": "Ketchum University",
 			"start_task": {
 				"start_done": true
@@ -756,7 +756,7 @@
 			"projectManager": "Alexa"
 		},
 		{
-			"archive": false,
+			"archive": true,
 			"projectTitle": "SCSU",
 			"projectManager": "Alexa",
 			"start_task": {
