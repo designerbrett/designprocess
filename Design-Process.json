@@ -1865,7 +1865,7 @@
 					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
 					"styleguide_done": false
@@ -1877,7 +1877,7 @@
 					"styleguide_done": false
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				}
 			],
 			"postdesign_task": [
@@ -2275,10 +2275,10 @@
 			},
 			"brief_task": [
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
 					"brief_done": false
@@ -2657,7 +2657,7 @@
 					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
 					"brief_done": false
@@ -2695,7 +2695,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -2775,7 +2775,7 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
@@ -2789,10 +2789,10 @@
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
