@@ -1411,18 +1411,6 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": false
-				},
-				{
 					"design_done": true
 				},
 				{
@@ -1433,6 +1421,18 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1923,10 +1923,10 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -1990,10 +1990,10 @@
 					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				}
 			],
 			"focus_task": [
@@ -2001,21 +2001,21 @@
 					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				}
 			],
 			"focus_task ": {
-				"focus_done": false
+				"focus_done": true
 			},
 			"sitemap_task": [
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
@@ -2032,10 +2032,10 @@
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
