@@ -1197,7 +1197,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -1297,7 +1297,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -1947,7 +1947,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -2044,7 +2044,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -2071,13 +2071,13 @@
 					"wireframes_done": false
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -2109,7 +2109,7 @@
 			],
 			"design_task": [
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2288,31 +2288,31 @@
 			],
 			"persona_task": [
 				{
-					"persona_done": false
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
 				},
 				{
 					"persona_done": false
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
-				},
-				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -2355,40 +2355,40 @@
 			],
 			"survey_task": [
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				}
 			],
 			"focus_task": [
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				}
 			],
 			"focus_task ": {
-				"focus_done": false
+				"focus_done": true
 			},
 			"sitemap_task": [
 				{
