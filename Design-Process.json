@@ -1371,7 +1371,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1776,13 +1776,13 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2053,7 +2053,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -2112,10 +2112,10 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2350,7 +2350,7 @@
 					"competitor_done": true
 				},
 				{
-					"competitor_done": false
+					"competitor_done": true
 				}
 			],
 			"survey_task": [
@@ -2409,13 +2409,13 @@
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
