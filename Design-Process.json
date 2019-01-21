@@ -670,7 +670,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1029,7 +1029,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1375,7 +1375,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1803,7 +1803,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1844,24 +1844,24 @@
 			],
 			"map_task": [
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				}
 			],
 			"styleguide_task": [
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
 					"styleguide_done": false
@@ -2154,19 +2154,19 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": true
