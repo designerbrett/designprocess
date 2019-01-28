@@ -1378,7 +1378,10 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1411,10 +1414,7 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1525,10 +1525,10 @@
 					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				}
 			],
 			"persona_task": [
@@ -1643,13 +1643,13 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				}
 			],
 			"wireframes_task": [
@@ -1864,7 +1864,7 @@
 					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
 					"styleguide_done": false
@@ -1876,7 +1876,7 @@
 					"styleguide_done": false
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				}
 			],
 			"postdesign_task": [
@@ -2133,7 +2133,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2181,7 +2181,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -2393,7 +2393,7 @@
 			},
 			"sitemap_task": [
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
@@ -2449,7 +2449,7 @@
 					"wireframes_done": false
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
