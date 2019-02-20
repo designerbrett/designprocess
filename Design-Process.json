@@ -513,10 +513,10 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				}
 			],
 			"wireframes_task": [
@@ -545,19 +545,25 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": true
@@ -581,19 +587,13 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
+					"wireframes_done": true
 				}
 			],
 			"design_task": [
@@ -922,19 +922,25 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": true
@@ -958,19 +964,13 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
+					"wireframes_done": true
 				}
 			],
 			"design_task": [
@@ -1005,24 +1005,6 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": true
-				},
-				{
 					"design_done": true
 				},
 				{
@@ -1033,12 +1015,6 @@
 				},
 				{
 					"design_done": false
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1056,7 +1032,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
 					"design_done": true
@@ -1066,6 +1042,30 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1301,19 +1301,25 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": true
@@ -1337,19 +1343,13 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
-				},
-				{
-					"wireframes_done": false
+					"wireframes_done": true
 				}
 			],
 			"design_task": [
