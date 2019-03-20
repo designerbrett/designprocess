@@ -1201,7 +1201,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -1585,7 +1585,7 @@
 					"persona_done": false
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				}
 			],
 			"competitor_task": [
