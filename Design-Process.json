@@ -467,7 +467,7 @@
 			],
 			"survey_task": [
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
 					"survey_done": false
@@ -487,7 +487,7 @@
 			],
 			"focus_task": [
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
 					"focus_done": false
