@@ -479,10 +479,10 @@
 					"survey_done": true
 				},
 				{
-					"survey_done": true
+					"survey_done": false
 				},
 				{
-					"survey_done": true
+					"survey_done": false
 				}
 			],
 			"focus_task": [
@@ -882,7 +882,7 @@
 			},
 			"sitemap_task": [
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
