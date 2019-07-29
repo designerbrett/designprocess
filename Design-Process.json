@@ -409,7 +409,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -1089,7 +1089,7 @@
 			],
 			"map_task": [
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
 					"map_done": false
