@@ -436,7 +436,7 @@
 					"persona_done": false
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -569,16 +569,16 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -619,7 +619,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -658,7 +658,7 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1115,7 +1115,7 @@
 					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
 					"styleguide_done": false
@@ -1203,10 +1203,10 @@
 					"persona_done": false
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				}
 			],
 			"competitor_task": [
@@ -1374,7 +1374,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1383,7 +1383,13 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1392,7 +1398,13 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1401,31 +1413,19 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1929,7 +1929,7 @@
 					"persona_done": false
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -1967,13 +1967,13 @@
 			],
 			"competitor_task": [
 				{
-					"competitor_done": false
+					"competitor_done": true
 				},
 				{
-					"competitor_done": false
+					"competitor_done": true
 				},
 				{
-					"competitor_done": false
+					"competitor_done": true
 				}
 			],
 			"survey_task": [
