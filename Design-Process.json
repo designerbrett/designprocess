@@ -711,7 +711,7 @@
 			],
 			"map_task": [
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
 					"map_done": false
@@ -728,7 +728,7 @@
 			],
 			"styleguide_task": [
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
 					"styleguide_done": false
@@ -907,7 +907,7 @@
 					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -1155,7 +1155,7 @@
 			],
 			"persona_task": [
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -1524,30 +1524,30 @@
 					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				}
 			],
 			"persona_task": [
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -1653,7 +1653,7 @@
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
