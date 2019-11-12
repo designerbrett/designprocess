@@ -1164,7 +1164,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -1234,10 +1234,10 @@
 					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				},
 				{
-					"survey_done": false
+					"survey_done": true
 				}
 			],
 			"focus_task": [
