@@ -717,7 +717,7 @@
 					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
 					"map_done": false
@@ -737,13 +737,13 @@
 					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				}
 			],
 			"postdesign_task": [
@@ -1035,10 +1035,10 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1170,16 +1170,16 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
-				},
-				{
 					"persona_done": true
 				},
 				{
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
+				},
+				{
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -1242,20 +1242,20 @@
 			],
 			"focus_task": [
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				},
 				{
-					"focus_done": false
+					"focus_done": true
 				}
 			],
 			"focus_task ": {
-				"focus_done": false
+				"focus_done": true
 			},
 			"sitemap_task": [
 				{
@@ -1271,7 +1271,7 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				}
 			],
 			"wireframes_task": [
@@ -1374,7 +1374,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1466,19 +1466,19 @@
 			],
 			"map_task": [
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				}
 			],
 			"styleguide_task": [
@@ -1583,7 +1583,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				}
 			],
 			"competitor_task": [
@@ -1648,7 +1648,7 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				}
 			],
 			"wireframes_task": [
@@ -1799,7 +1799,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1902,10 +1902,10 @@
 					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				}
 			],
 			"persona_task": [
@@ -1937,7 +1937,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -2017,10 +2017,10 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
@@ -2031,10 +2031,10 @@
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
 					"wireframes_done": false
@@ -2646,7 +2646,7 @@
 			"archive": false,
 			"projectTitle": "Family Talk",
 			"start_task": {
-				"start_done": false
+				"start_done": true
 			},
 			"brief_task": [
 				{
