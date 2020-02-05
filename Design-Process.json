@@ -720,7 +720,7 @@
 					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
 					"map_done": false
@@ -893,7 +893,7 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": true
+					"sitemap_done": false
 				}
 			],
 			"wireframes_task": [
@@ -2023,7 +2023,7 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
