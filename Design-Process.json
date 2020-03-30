@@ -2161,15 +2161,6 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": true
-				},
-				{
 					"design_done": true
 				},
 				{
@@ -2179,7 +2170,16 @@
 					"design_done": true
 				},
 				{
+					"design_done": true
+				},
+				{
 					"design_done": false
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
