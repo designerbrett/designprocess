@@ -631,51 +631,6 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
 					"design_done": true
 				},
 				{
@@ -686,6 +641,51 @@
 				},
 				{
 					"design_done": false
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -731,7 +731,7 @@
 					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
 					"styleguide_done": false
@@ -805,7 +805,7 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": true
@@ -885,7 +885,7 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": true
