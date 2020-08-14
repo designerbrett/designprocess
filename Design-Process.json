@@ -1135,7 +1135,386 @@
 		},
 		{
 			"archive": false,
-			"projectTitle": "Central Connecticut (Hold)",
+			"projectTitle": "Halton Pardee",
+			"projectManager": "Renee",
+			"start_task": {
+				"start_done": true
+			},
+			"brief_task": [
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				},
+				{
+					"brief_done": true
+				}
+			],
+			"persona_task": [
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": true
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				},
+				{
+					"persona_done": false
+				}
+			],
+			"competitor_task": [
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				},
+				{
+					"competitor_done": true
+				}
+			],
+			"survey_task": [
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				},
+				{
+					"survey_done": true
+				}
+			],
+			"focus_task": [
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				},
+				{
+					"focus_done": true
+				}
+			],
+			"focus_task ": {
+				"focus_done": true
+			},
+			"sitemap_task": [
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": true
+				},
+				{
+					"sitemap_done": false
+				},
+				{
+					"sitemap_done": false
+				}
+			],
+			"wireframes_task": [
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": true
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				}
+			],
+			"design_task": [
+				{
+					"design_done": true
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				}
+			],
+			"map_task": [
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				},
+				{
+					"map_done": false
+				}
+			],
+			"styleguide_task": [
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				},
+				{
+					"styleguide_done": false
+				}
+			],
+			"postdesign_task": [
+				{
+					"postdesign_done": false
+				},
+				{
+					"postdesign_done": false
+				}
+			]
+		},
+		{
+			"archive": false,
+			"projectTitle": "Oxy Campaign Report",
+			"projectManager": "Allison",
 			"start_task": {
 				"start_done": true
 			},
@@ -1268,10 +1647,10 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				}
 			],
 			"wireframes_task": [
@@ -1512,8 +1891,7 @@
 		},
 		{
 			"archive": false,
-			"projectTitle": "Halton Pardee",
-			"projectManager": "Renee",
+			"projectTitle": "Central Connecticut (Hold)",
 			"start_task": {
 				"start_done": true
 			},
@@ -1563,10 +1941,10 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
 					"persona_done": false
@@ -1654,18 +2032,6 @@
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
-					"wireframes_done": true
-				},
-				{
 					"wireframes_done": false
 				},
 				{
@@ -1693,7 +2059,19 @@
 					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
+				},
+				{
+					"wireframes_done": false
 				},
 				{
 					"wireframes_done": false
@@ -1731,7 +2109,7 @@
 			],
 			"design_task": [
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
 					"design_done": false
