@@ -378,7 +378,7 @@
 			"archive": false
 		},
 		{
-			"archive": false,
+			"archive": true,
 			"projectTitle": "UCI - Humanities",
 			"projectManager": "Alexa",
 			"start_task": {
@@ -734,16 +734,16 @@
 					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				},
 				{
-					"styleguide_done": false
+					"styleguide_done": true
 				}
 			],
 			"postdesign_task": [
