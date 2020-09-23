@@ -628,10 +628,10 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -682,10 +682,10 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -711,19 +711,19 @@
 			],
 			"map_task": [
 				{
-					"map_done": true
+					"map_done": false
 				},
 				{
-					"map_done": true
+					"map_done": false
 				},
 				{
-					"map_done": true
+					"map_done": false
 				},
 				{
-					"map_done": true
+					"map_done": false
 				},
 				{
-					"map_done": true
+					"map_done": false
 				}
 			],
 			"styleguide_task": [
@@ -757,7 +757,7 @@
 		},
 		{
 			"archive": false,
-			"projectTitle": "Halton Pardee",
+			"projectTitle": "Tami Pardee",
 			"projectManager": "Renee",
 			"start_task": {
 				"start_done": true
@@ -1432,7 +1432,7 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
