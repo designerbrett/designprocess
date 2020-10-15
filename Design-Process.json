@@ -652,10 +652,10 @@
 					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": true
@@ -1897,10 +1897,10 @@
 			},
 			"brief_task": [
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
-					"brief_done": false
+					"brief_done": true
 				},
 				{
 					"brief_done": false
