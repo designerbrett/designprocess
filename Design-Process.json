@@ -1911,7 +1911,7 @@
 			],
 			"persona_task": [
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
 					"persona_done": false
@@ -1967,7 +1967,7 @@
 			],
 			"competitor_task": [
 				{
-					"competitor_done": false
+					"competitor_done": true
 				},
 				{
 					"competitor_done": false
@@ -2015,7 +2015,7 @@
 			},
 			"sitemap_task": [
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
 					"sitemap_done": false
