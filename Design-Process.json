@@ -1135,7 +1135,8 @@
 		},
 		{
 			"archive": false,
-			"projectTitle": "Central Connecticut",
+			"projectTitle": "Red Rock Tech",
+			"projectManager": "Jennifer",
 			"start_task": {
 				"start_done": true
 			},
@@ -1185,28 +1186,28 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				},
 				{
-					"persona_done": false
+					"persona_done": true
 				}
 			],
 			"competitor_task": [
@@ -1268,92 +1269,134 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				},
 				{
-					"sitemap_done": false
+					"sitemap_done": true
 				}
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				},
 				{
-					"wireframes_done": false
+					"wireframes_done": true
 				}
 			],
 			"design_task": [
 				{
-					"design_done": false
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1371,82 +1414,40 @@
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
+				},
+				{
+					"design_done": true
 				},
 				{
 					"design_done": false
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
+					"design_done": true
 				},
 				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
-				},
-				{
-					"design_done": false
+					"design_done": true
 				},
 				{
 					"design_done": false
@@ -1466,19 +1467,19 @@
 			],
 			"map_task": [
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				},
 				{
-					"map_done": false
+					"map_done": true
 				}
 			],
 			"styleguide_task": [
@@ -1508,8 +1509,7 @@
 				{
 					"postdesign_done": false
 				}
-			],
-			"projectManager": "Janelle"
+			]
 		},
 		{
 			"archive": false,
@@ -1891,8 +1891,7 @@
 		},
 		{
 			"archive": false,
-			"projectTitle": "Red Rock Tech",
-			"projectManager": "Jennifer",
+			"projectTitle": "Central Connecticut",
 			"start_task": {
 				"start_done": true
 			},
@@ -1942,28 +1941,28 @@
 					"persona_done": true
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				},
 				{
-					"persona_done": true
+					"persona_done": false
 				}
 			],
 			"competitor_task": [
@@ -2025,134 +2024,104 @@
 					"sitemap_done": true
 				},
 				{
-					"sitemap_done": true
+					"sitemap_done": false
 				},
 				{
-					"sitemap_done": true
+					"sitemap_done": false
 				}
 			],
 			"wireframes_task": [
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				},
 				{
-					"wireframes_done": true
+					"wireframes_done": false
 				}
 			],
 			"design_task": [
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
+					"design_done": false
 				},
 				{
 					"design_done": false
@@ -2170,40 +2139,70 @@
 					"design_done": false
 				},
 				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
-				},
-				{
-					"design_done": true
+					"design_done": false
 				},
 				{
 					"design_done": false
 				},
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
-					"design_done": true
+					"design_done": false
 				},
 				{
-					"design_done": true
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
+				},
+				{
+					"design_done": false
 				},
 				{
 					"design_done": false
@@ -2223,19 +2222,19 @@
 			],
 			"map_task": [
 				{
-					"map_done": true
+					"map_done": false
 				},
 				{
-					"map_done": true
+					"map_done": false
 				},
 				{
-					"map_done": true
+					"map_done": false
 				},
 				{
-					"map_done": true
+					"map_done": false
 				},
 				{
-					"map_done": true
+					"map_done": false
 				}
 			],
 			"styleguide_task": [
@@ -2265,7 +2264,8 @@
 				{
 					"postdesign_done": false
 				}
-			]
+			],
+			"projectManager": "Janelle"
 		}
 	],
 	"task": [
